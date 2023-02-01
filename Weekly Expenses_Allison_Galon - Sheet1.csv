@@ -1,0 +1,20 @@
+Date,Day of the Week,Amount,Description,Category ,Credit
+1/20,Friday,1.1,bus travel ,Travel,Cash
+1/20,Friday,4.98,lunch,Food,Cash
+1/21,Saturday,170,wifi,Bills,Debit
+1/22,Sunday,1.1,bus travel ,Travel,Cash
+1/22,Sunday,50,birthday gift,Entertainment and Recreation,Cash
+1/22,Sunday,90,dog vaccine,Bills,Cash
+1/23,Monday,1.1,bus travel ,Food,Cash
+1/23,Monday,4.98,lunch ,Food,Cash
+1/24,Tuesday,1.1,bus travel ,Travel,Cash
+1/24,Tuesday,2.39,tea ,Food,Cash
+1/25,Wednesday,1.1,bus travel ,Travel,Cash
+125,Wednesday,8.97,lunch ,Food,Cash
+1/25,Thursday,1.1,bus travel ,Travel,Cash
+1/26,Thursday ,5.25,coffee,Food,Cash
+1/27,Friday,1.1,bus travel ,Travel,Cash
+1/27,Friday,8.97,lunch,Food,Cash
+1/29,Sunday,136,dog food and supplies,Bills,Cash
+1/30,Monday,1.1,bus travel ,Travel,Cash
+1/31,Tuesday,3.97,fries,Food,Cash
